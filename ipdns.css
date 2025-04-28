@@ -1,0 +1,17 @@
+.info-card {
+  background: var(--card-bg);
+  border-radius: 12px;
+  padding: 16px;
+  margin-top: 20px;
+  box-shadow: var(--shadow);
+}
+
+.info-card p {
+  margin: 0 0 10px 0;
+  color: #fff;
+  font-size: 15px;
+}
+
+.info-card p:last-child {
+  margin-bottom: 0;
+}
